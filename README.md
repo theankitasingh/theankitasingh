@@ -1,0 +1,3 @@
+👋 **Hello!** I’m a data enthusiast and full-stack developer with a versatile skill set spanning **Excel**, **Power BI**, **Tableau**, and **Google Analytics** for data analysis and reporting, along with **MySQL** and **MongoDB** for efficient database management. I’m proficient in front-end technologies like **HTML**, **CSS**, **JavaScript**, and frameworks such as **Node.js** and **React** for building dynamic, responsive web applications. On the back-end, I leverage **Python**, **Django**, and **Flask** to develop robust, scalable solutions. With a keen interest in **Machine Learning** and **Data Visualization**, I’m passionate about turning complex data into actionable insights.
+
+Let’s collaborate and bring data-driven projects to life!
